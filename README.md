@@ -18,7 +18,6 @@
 </p>
 
 <!--
-等有了几个真实项目、几十次提交之后，再把下面这段注释删掉，让统计卡片显示出来：
 
 <div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=chengsiqing2006&show_icons=true&hide_border=true" />
